@@ -1,3 +1,2 @@
-# Simulation
-
-This repository contains the codes which simulate three main models of decision-making which are described in detail in the report attached. 
+This repository contains the simulations of three main mathematical models of decision making, developed in the papers “Decision with multiple alternatives: Geometric
+models in higher dimensions — the cube model” and "Decision with multiple alternatives: Geometric models in higher dimensions — the disk model" by K. Mallahi-Karai and A. Diederich, as part of my bachelor thesis and work as a Research Assistant at my alma mater, Jacobs University (now known as Constructor University). 
